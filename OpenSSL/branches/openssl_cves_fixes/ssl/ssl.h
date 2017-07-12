@@ -2138,6 +2138,7 @@ void ERR_load_SSL_strings(void);
 # define SSL_R_RECORD_TOO_SMALL                           298
 # define SSL_R_RENEGOTIATE_EXT_TOO_LONG                   320
 # define SSL_R_RENEGOTIATION_ENCODING_ERR                 321
+# define SSL_F_SSL_SESSION_DUP                            348
 # define SSL_R_RENEGOTIATION_MISMATCH                     322
 # define SSL_R_REQUIRED_CIPHER_MISSING                    215
 # define SSL_R_REUSE_CERT_LENGTH_NOT_ZERO                 216
